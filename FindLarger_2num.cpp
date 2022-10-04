@@ -1,4 +1,6 @@
 /* finding the larger of two numbers */
+/* O importante a notar neste tipo de exercício é o uso de variáveis
+auxiliares para armazenar valores */
 
 #include <iostream>
 
